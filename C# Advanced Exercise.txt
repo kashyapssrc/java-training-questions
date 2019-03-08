@@ -1,0 +1,31 @@
+Generics
+==============
+
+Create a method which will reverse the order of any type of array
+
+Events
+=================
+
+Write a program for Online Attendance. The conditions are as follow:
+1 . User provides their name as Input and then application show message to “Welcome to their Name”.
+2.Jack, Steven, and Mathew are banned for the organization. So, when any user enters Jack, Steven, and Mathew as username, the application raised an event and fire alarm as well as sends email to administration.
+
+Delegates
+================
+
+ Creating a custom button control over the Windows form that would be called from a console application
+
+Extension method
+==================
+1. Create Extension method for string to generate ToThreeLetterAbbreviation
+2. Create Extension method for datetime to get StartDateOfTheMonth
+
+Linq
+===============
+1. Join common values from two sequences
+2. Determine if two sequences are equal
+
+Nullable Types
+====================
+1. Read a set of data from file with null values and print whether it is null or not
+
